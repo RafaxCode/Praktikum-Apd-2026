@@ -3,6 +3,11 @@
 #Cara Membaca List = [nama, ukuran, harga]
 #Penggunaan nama #USER xxx #USER Berfungsi untuk mengsubstitusi fungsinya fungsi
 #Agar Sang Dev tidak kebingungan dalam mengeread baca kode kodingannya
+#POSTTEST_6
+#NEW EDIT : Mengganti list menjadi dictionary
+#           Target yang mau diganti: listJoran
+#           Hal Baru yang ditambahkan : sistem login user non guest
+
 import os
 ListJoran = [['shimano', '150cm', 'RP.200.000'], #<--------- Termasuk Nested List
              ['daiwa', '130cm', 'Rp.125.000'], 
